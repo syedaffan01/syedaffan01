@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Shah Rafi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React,Node.js,java**
+- 🌱 I’m currently learning **React,Node.js**
 
 - 📫 How to reach me **affan4157@gmail.com**
 
