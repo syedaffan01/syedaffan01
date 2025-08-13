@@ -42,15 +42,6 @@
 
 ---
 
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedaffan01&show_icons=true&theme=radical" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedaffan01&layout=compact&theme=radical" alt="Top Languages" height="180em" />
-</p>
-
----
-
 ## 🌐 Let's Connect
 <p align="center">
   <a href="https://linkedin.com/in/syedshahrafi"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
